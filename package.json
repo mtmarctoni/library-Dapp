@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "git": "git add . && git commit -m 'quickCommit' && git push -u origin main"
   },
   "dependencies": {
     "ethers": "^6.13.4",
